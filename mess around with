@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>this is how to make headings</h2>
+    <br>
+    <h3>
+        heading 3
+    </h3>
+    <h2>
+        heading 2
+    </h2>
+    <h1>
+        heading 1
+    </h1>
+
+
+    <h2>this is how to make a link</h2>
+    <a href="https://www.google.com/search?q=subscribe+to+codensity&oq=subscribe+to+codensity&aqs=chrome..69i57.5989j0j7&sourceid=chrome&ie=UTF-8">click me pls</a>
+    
+    
+    <h2>this is how to make a link through a picture</h2>
+    <a href="https://www.google.com/search?q=subscribe+to+codensity&oq=subscribe+to+codensity&aqs=chrome..69i57.5989j0j7&sourceid=chrome&ie=UTF-8"><img src="https://cdn.pixabay.com/photo/2020/07/15/21/04/subscribe-5408999__480.png"></a>
+    <h2>this is how to customize the size of your image</h2>
+    <style>
+    .hey-there{
+        width: 100px;
+        height: 100px;
+    }
+    </style>
+    <img class="hey-there" src="https://cdn.pixabay.com/photo/2020/07/15/21/04/subscribe-5408999__480.png">
+    
+    
+    <h2 class="hi">this is how to customize the color of your text</h2>
+    <style>
+        .hi{
+            color: red;
+        }
+    </style>
+
+</body>
+</html>
